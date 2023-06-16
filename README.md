@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chideat
-- 👀 I’m interested in OS, Kubernetes, AI, Go, Nodejs, C++ and anything.
-- 🌱 I’m currently learning AI and Rust
+- 👀 I’m interested in OS, Network, Kubernetes, AI, Go, Nodejs, C++ and anything.
+- 🌱 I’m currently learning AI and Zig
 - 💞️ I’m looking to collaborate on Spiders, Automation 
 - 📫 Reach me by my email kvcnow at gmail
 
